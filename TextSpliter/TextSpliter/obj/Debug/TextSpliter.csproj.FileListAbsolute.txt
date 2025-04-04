@@ -1,0 +1,14 @@
+E:\Ostad kouckaki\TextSpliter\TextSpliter\bin\Debug\TextSpliter.exe.config
+E:\Ostad kouckaki\TextSpliter\TextSpliter\bin\Debug\TextSpliter.exe
+E:\Ostad kouckaki\TextSpliter\TextSpliter\bin\Debug\TextSpliter.pdb
+E:\Ostad kouckaki\TextSpliter\TextSpliter\obj\Debug\TextSpliter.csproj.AssemblyReference.cache
+E:\Ostad kouckaki\TextSpliter\TextSpliter\obj\Debug\TextSpliter.Properties.Resources.resources
+E:\Ostad kouckaki\TextSpliter\TextSpliter\obj\Debug\TextSpliter.csproj.GenerateResource.cache
+E:\Ostad kouckaki\TextSpliter\TextSpliter\obj\Debug\TextSpliter.csproj.CoreCompileInputs.cache
+E:\Ostad kouckaki\TextSpliter\TextSpliter\obj\Debug\TextSpliter.exe
+E:\Ostad kouckaki\TextSpliter\TextSpliter\obj\Debug\TextSpliter.pdb
+E:\Ostad kouckaki\TextSpliter\TextSpliter\obj\Debug\TextSpliter.Form1.resources
+E:\Ostad kouckaki\TextSpliter\TextSpliter\bin\Debug\TextSpliter.exe.manifest
+E:\Ostad kouckaki\TextSpliter\TextSpliter\bin\Debug\TextSpliter.application
+E:\Ostad kouckaki\TextSpliter\TextSpliter\obj\Debug\TextSpliter.exe.manifest
+E:\Ostad kouckaki\TextSpliter\TextSpliter\obj\Debug\TextSpliter.application
