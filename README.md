@@ -1,4 +1,5 @@
 # ✂️ Text Separator (WinForms C# Application)
+![p-15](https://github.com/user-attachments/assets/d0ce4f8d-fb96-4e04-81f1-ea0435e5315d)
 
 **Text Separator** is a Windows Forms application built with **C#** that allows you to split large Word or text documents—such as novels, books, or research files—into smaller, more manageable parts with just a few clicks.
 
